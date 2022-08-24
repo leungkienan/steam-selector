@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/leungkienan/steam-selector#readme",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "steamapi": "^2.2.0"
   }
 }
