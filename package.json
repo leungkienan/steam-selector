@@ -1,0 +1,22 @@
+{
+  "name": "steam-selector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leungkienan/steam-selector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leungkienan/steam-selector/issues"
+  },
+  "homepage": "https://github.com/leungkienan/steam-selector#readme",
+  "dependencies": {
+    "steamapi": "^2.2.0"
+  }
+}
